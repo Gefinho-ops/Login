@@ -1,0 +1,12 @@
+- SISTEMA DE LOGIN
+    - Cadastro (nome, email e senha) não permitir senhas fracas (ex:1234).
+    - Login (com email e senha) e tratar as excessões.
+    - Senhas devem ser armazenadas ao BD criptografadas.
+    - Tecnologias:
+        - Python
+        - POO
+        - MVC
+        - Banco de Dados
+        - ORM
+
+
